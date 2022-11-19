@@ -1,6 +1,6 @@
 # FaceCup Challenge
 Computer programming competition of Face Clustering Algorithm (Face Cup)
-![img](Cluster.gif)
+![img](Cluster.png)
 ## Install requirements
 
 ```bash
