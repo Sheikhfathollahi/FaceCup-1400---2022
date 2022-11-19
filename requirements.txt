@@ -1,0 +1,8 @@
+insightface==0.5
+torch @ https://download.pytorch.org/whl/cu111/torch-1.10.0%2Bcu111-cp37-cp37m-linux_x86_64.whl
+onnxruntime-gpu==1.9.0
+onnx==1.10.2
+opencv-python==4.1.2.30
+sklearn==0.0
+sklearn-pandas==1.8.0
+numpy==1.19.5
